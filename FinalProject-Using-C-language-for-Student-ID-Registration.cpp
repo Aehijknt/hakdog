@@ -9,7 +9,6 @@ int main()
     printf("\n***************************************************\n\n");
     printf("Good day! We are from the BSCS 1-B and this is our final project for CMPSC 111.\n\n");
     printf("\nTITLE:\tUsing C language for Student ID Registration\n");
-    printf("\nMEMBERS:   Einstein Kien R. Salonga\n\t   Jan Keith Marley Dela Rosa\n\t   Jamaica Puyaoan\n");
     printf("\n***************************************************\n");
     
     printf("\n\t    Type \"Register\" to proceed.\n\n");
